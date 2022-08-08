@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MethodExcersize2/1.0.0": {
+        "runtime": {
+          "MethodExcersize2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodExcersize2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
